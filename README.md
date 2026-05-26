@@ -7,6 +7,7 @@
 **CABA · Buenos Aires · Argentina**
 
 [![Portfolio](https://img.shields.io/badge/▸_martinmartinezrizzi.ar-F54E00?style=for-the-badge&labelColor=1D1F27)](https://martinmartinezrizzi.ar)
+[![Portfolio alt](https://img.shields.io/badge/▸_martinezrizzimartin.ar-F54E00?style=for-the-badge&labelColor=1D1F27)](https://martinezrizzimartin.ar)
 [![LinkedIn](https://img.shields.io/badge/in/martin--martinez--rizzi-1D4AFF?style=for-the-badge&labelColor=1D1F27&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-martinez-rizzi/)
 [![Email](https://img.shields.io/badge/martinezrizzimartin@gmail.com-29DBBB?style=for-the-badge&labelColor=1D1F27&logo=gmail&logoColor=white)](mailto:martinezrizzimartin@gmail.com)
 
@@ -207,6 +208,7 @@ Streaming platform for private events using Web3 technologies.
 Want to work together, chat about a project, or ask me something?
 
 [![Portfolio](https://img.shields.io/badge/🌐_portfolio-martinmartinezrizzi.ar-F54E00?style=for-the-badge&labelColor=1D1F27)](https://martinmartinezrizzi.ar)
+[![Portfolio alt](https://img.shields.io/badge/🌐_alt-martinezrizzimartin.ar-F54E00?style=for-the-badge&labelColor=1D1F27)](https://martinezrizzimartin.ar)
 [![LinkedIn](https://img.shields.io/badge/💼_linkedin-profile-1D4AFF?style=for-the-badge&labelColor=1D1F27)](https://www.linkedin.com/in/martin-martinez-rizzi/)
 [![Email](https://img.shields.io/badge/✉️_email-say_hi-29DBBB?style=for-the-badge&labelColor=1D1F27)](mailto:martinezrizzimartin@gmail.com)
 
