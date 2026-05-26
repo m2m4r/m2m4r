@@ -2,7 +2,7 @@
 
 # Martin Martinez Rizzi
 
-### Desarrollador full-stack & Coordinador de tecnología educativa
+### Full-stack Developer & Educational Technology Coordinator
 
 **CABA · Buenos Aires · Argentina**
 
@@ -14,45 +14,45 @@
 
 ---
 
-## Resumen
+## Summary
 
-Combino dos trayectorias que se complementan: **4+ años de experiencia construyendo plataformas web** para empresas en Argentina (e-commerce, portales de búsqueda, sistemas de gestión) y **16+ años acompañando proyectos educativos basados en tecnología** en una institución del nivel medio.
+I combine two complementary tracks: **4+ years building web platforms** for companies in Argentina (e-commerce, search portals, management systems) and **16+ years supporting tech-based educational projects** in a secondary-level institution.
 
-En el lado técnico, llevo proyectos de punta a punta: entrevisto a usuarios y áreas, defino qué hay que hacer, estimo tiempos, coordino con producto y operaciones, escribo el código, y acompaño hasta el momento en que lo usa la gente. En el lado educativo, gestiono plataformas internas (MOODLE, sistema administrativo), enseño lógica de programación a estudiantes — incluido el trabajo con alumnos con necesidades educativas particulares — y propongo soluciones tecnológicas que mejoran el día a día de la institución.
+On the technical side, I take projects end to end: I interview users and stakeholders, define what needs to be done, estimate timelines, coordinate with product and operations, write the code, and stay with it until people are actually using it. On the educational side, I manage internal platforms (MOODLE, admin system), teach programming logic to students — including work with students with special educational needs — and propose tech solutions that improve the day-to-day of the institution.
 
-Estoy cómodo en contextos en los que **alguien tiene que traducir entre lo técnico y lo que el negocio (o la escuela) necesita resolver**. Trabajo bien con personas no técnicas, escribo documentación clara, y disfruto los ámbitos donde un solo perfil tiene que cubrir varias responsabilidades.
+I'm comfortable in contexts where **someone needs to translate between the technical and what the business (or the school) actually needs to solve**. I work well with non-technical people, write clear documentation, and enjoy environments where a single profile has to cover several responsibilities.
 
 ---
 
-## 🧠 Habilidades clave
+## 🧠 Key skills
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🗂 Gestión y coordinación**
-- Análisis de necesidades con usuarios y áreas (entrevistas, relevamiento, definición de alcance).
-- Estimación de tiempos y planificación de entregables.
-- Documentación de decisiones para que el resto del equipo pueda consultarla.
-- Liderazgo informal en equipos chicos y mentoría a estudiantes / colegas.
+**🗂 Management & coordination**
+- Needs analysis with users and stakeholders (interviews, discovery, scope definition).
+- Time estimation and deliverable planning.
+- Decision documentation so the rest of the team can refer back to it.
+- Informal leadership in small teams; mentorship for students and peers.
 
-**🛠 Construcción de plataformas web**
-- Sitios públicos (catálogos, tiendas online, portales de búsqueda).
-- Paneles internos de administración con roles diferenciados por usuario.
-- Conexión con servicios externos (pagos online, facturación AFIP, empresas de logística, plataformas educativas).
+**🛠 Building web platforms**
+- Public-facing sites (catalogs, online stores, search portals).
+- Internal admin panels with role-based access.
+- Integrations with external services (online payments, AFIP invoicing, logistics providers, educational platforms).
 
 </td>
 <td width="50%" valign="top">
 
-**⚙ Gestión de plataformas y soporte**
-- Administración de **MOODLE** (configuración de cursos, usuarios, soporte a docentes).
-- Mantenimiento de sistemas administrativos internos.
-- Implementación de herramientas para mejorar procesos cotidianos del equipo.
+**⚙ Platform management & support**
+- **MOODLE** administration (course configuration, users, support for teachers).
+- Maintenance of internal admin systems.
+- Tooling rollouts to improve everyday team processes.
 
-**🎓 Enseñanza y didáctica**
-- Enseñanza de lógica de programación a estudiantes de distintos niveles.
-- Educación inclusiva: adaptación de contenido y método para alumnos con necesidades educativas particulares.
-- Acompañamiento a docentes en la adopción de herramientas digitales.
+**🎓 Teaching & instructional design**
+- Teaching programming logic to students across levels.
+- Inclusive education: adapting content and methodology for students with special educational needs.
+- Supporting teachers in adopting digital tools.
 
 </td>
 </tr>
@@ -60,95 +60,95 @@ Estoy cómodo en contextos en los que **alguien tiene que traducir entre lo téc
 
 ---
 
-## 💼 Experiencia profesional
+## 💼 Professional experience
 
 ### 🎓 Centro Educativo Espíritu Santo — Argentina
-**Ayudante de trabajos prácticos · Coordinador de tecnología educativa** · Jornada parcial · *Marzo 2010 – Presente* · **16+ años continuos**
+**Teaching assistant · Educational Technology Coordinator** · Part-time · *March 2010 – Present* · **16+ continuous years**
 
-Acompañamiento integral en la capa tecnológica de la institución — tanto en aula como en la operación interna — combinando enseñanza, gestión de plataformas y resolución de problemas con tecnología.
+Comprehensive support for the institution's technology layer — both in the classroom and in internal operations — combining teaching, platform management, and problem-solving with technology.
 
-- **Lidero proyectos educativos basados en nuevas tecnologías**: coordino iniciativas que acercan herramientas digitales al aula, desde la elección de contenidos hasta la implementación con docentes y alumnos.
-- **Enseño lógica de programación** a estudiantes de distintos niveles, desde el primer contacto con el pensamiento computacional hasta el trabajo con estructuras de datos y resolución de problemas.
-- **Trabajo en educación inclusiva**: adapto metodología, materiales y ritmos para acompañar a alumnos con necesidades educativas particulares, asegurando que el acceso a la programación y a las herramientas digitales sea efectivo para todos.
-- **Administro la plataforma MOODLE** del colegio: configuro cursos, mantengo usuarios y roles, doy soporte a docentes en la creación de contenido y resuelvo incidentes.
-- **Gestiono el sistema administrativo interno**: mantenimiento, soporte y acompañamiento al personal docente y no docente en el uso diario.
-- **Identifico, evalúo e implemento soluciones tecnológicas** para acompañar la operación pedagógica y administrativa: comparo opciones, mido impacto y acompaño la adopción del equipo.
-- **16+ años de continuidad** en la misma institución — el rol más largo de mi historia laboral, donde empecé a desarrollar mi vínculo con la enseñanza y con la resolución de problemas a través de la tecnología.
+- **I lead educational projects based on new technologies**: I coordinate initiatives that bring digital tools into the classroom, from content selection through rollout with teachers and students.
+- **I teach programming logic** to students at different levels, from their first contact with computational thinking through data structures and problem-solving.
+- **I work in inclusive education**: I adapt methodology, materials, and pacing to support students with special educational needs, making sure access to programming and digital tools is effective for everyone.
+- **I administer the school's MOODLE platform**: I configure courses, maintain users and roles, support teachers in content creation, and resolve incidents.
+- **I manage the internal admin system**: maintenance, support, and onboarding of teaching and non-teaching staff in day-to-day use.
+- **I identify, evaluate, and implement tech solutions** to support pedagogical and administrative operations: I compare options, measure impact, and accompany team adoption.
+- **16+ years of continuity** at the same institution — the longest role of my career, where I first developed my relationship with teaching and with solving problems through technology.
 
 ---
 
 ### 🟠 Extracto Importado SRL — Buenos Aires, Argentina
-**Desarrollador Full-stack** · *Mayo 2023 – Presente*
+**Full-stack Developer** · *May 2023 – Present*
 
-Empresa nacional de perfumería importada con **más de 600.000 unidades vendidas en todo el país**. Trabajo en tres frentes que se complementan: el sitio público para clientes finales, el panel interno para una red de revendedores, y la API que conecta a ambos.
+National imported-perfume company with **600,000+ units sold nationwide**. I work on three complementary fronts: the public-facing site for end customers, the internal panel for a network of resellers, and the API that connects both.
 
-**Gestión, análisis y coordinación**
-- Reuniones con producto, ventas y operaciones para entender qué necesita el negocio. Traduzco esas necesidades a un plan técnico concreto.
-- Definición de alcance, criterios de aceptación, identificación de riesgos.
-- Estimaciones de esfuerzo y entrevistas con usuarios no técnicos para priorizar, recortar o proponer alternativas.
-- Documentación de decisiones para que el equipo pueda revisarlas cuando hace falta.
+**Management, analysis, and coordination**
+- Meetings with product, sales, and operations to understand what the business needs. I translate those needs into a concrete technical plan.
+- Scope definition, acceptance criteria, risk identification.
+- Effort estimation and interviews with non-technical users to prioritize, trim, or propose alternatives.
+- Decision documentation so the team can revisit it when needed.
 
-**Diseño de bases de datos**
-- Modelado de los conceptos del negocio en una base de datos PostgreSQL: ventas, productos, vendedores, comisiones, descuentos por escalón, formatos mayoristas.
-- Migración de datos en producción sin afectar la operación.
+**Database design**
+- Modeling business concepts in a PostgreSQL database: sales, products, sellers, commissions, tier-based discounts, wholesale formats.
+- Data migration in production without disrupting operations.
 
-**Construcción de plataformas**
-- Sitio público multi-tienda donde cada vendedor tiene su propia URL.
-- Panel interno con **7 roles diferenciados** (administración, líderes, vendedores, soporte, etc.) — cada persona ve y opera solo sobre lo que le corresponde.
-- API que coordina la información entre ambas plataformas y servicios externos.
+**Platform construction**
+- Multi-store public site where each seller has their own URL.
+- Internal panel with **7 differentiated roles** (administration, leads, sellers, support, etc.) — each person only sees and operates on what's relevant to them.
+- API that coordinates information between both platforms and external services.
 
-**Integraciones externas**
-- **MercadoPago** (pagos online).
-- **Facturante** (facturación electrónica AFIP).
-- **OCA / Chazki** (logística y envíos).
-- Email automático a clientes y vendedores en cada paso del proceso.
+**External integrations**
+- **MercadoPago** (online payments).
+- **Facturante** (AFIP electronic invoicing).
+- **OCA / Chazki** (logistics and shipping).
+- Automatic email to customers and sellers at every step of the process.
 
 🔗 **Live:** [checkout.extractoimportado.com.ar](https://checkout.extractoimportado.com.ar/)
 
 ---
 
-### 🟡 Marcolo-3D — Argentina (remoto)
-**Desarrollador Full-stack** · *2025*
+### 🟡 Marcolo-3D — Argentina (remote)
+**Full-stack Developer** · *2025*
 
-E-commerce de figuras coleccionables impresas en 3D. Trabajo en forma autónoma, en diálogo directo con el dueño del negocio.
+E-commerce for 3D-printed collectible figures. I work autonomously, in direct dialogue with the business owner.
 
-- **Construcción completa**: sitio público (catálogo, carrito, checkout) + panel administrativo con 9+ secciones (pedidos, pagos, envíos, banners, colecciones, combos, destacados, configuración, notificaciones).
-- **Integración con MercadoPago**: cobros automáticos y manejo manual de comprobantes de transferencia.
-- **Sistema de login con Google** para clientes y administradores.
-- **Pre-visualización 360° y vista 3D** de las figuras (los clientes giran la figura desde el navegador antes de comprarla).
-- **Definición de prioridades, costos y plazos** junto al dueño del negocio.
+- **Full construction**: public site (catalog, cart, checkout) + admin panel with 9+ sections (orders, payments, shipping, banners, collections, bundles, featured items, settings, notifications).
+- **MercadoPago integration**: automatic payments and manual handling of bank-transfer receipts.
+- **Google sign-in** for customers and administrators.
+- **360° preview and 3D view** of the figures (customers rotate the figure in the browser before buying).
+- **Definition of priorities, costs, and timelines** alongside the business owner.
 
 🔗 **Live:** [marcolo3d.com.ar](https://marcolo3d.com.ar/)
 
 ---
 
 ### 🔵 Simplitec — Buenos Aires, Argentina
-**Desarrollador Full-stack** · *Diciembre 2022 – Agosto 2023*
+**Full-stack Developer** · *December 2022 – August 2023*
 
-Agencia / consultora para clientes enterprise. Proyecto destacado: **e-Toyota Seminuevos**, portal de usados certificados de Toyota Perú con red de concesionarios oficiales.
+Agency / consultancy for enterprise clients. Highlighted project: **e-Toyota Seminuevos**, certified pre-owned portal for Toyota Peru with a network of official dealerships.
 
-- **Portal de búsqueda** con filtros dinámicos por modelo, año, kilometraje, precio, ciudad y tipo de transmisión.
-- **Sincronización en tiempo real** del catálogo y stock con los sistemas internos de los concesionarios oficiales.
-- Foco en experiencia de usuario y velocidad de carga.
-- Participé en todo el ciclo del proyecto: relevamiento, implementación, control de calidad y soporte post-lanzamiento.
+- **Search portal** with dynamic filters by model, year, mileage, price, city, and transmission type.
+- **Real-time synchronization** of catalog and stock with the internal systems of the official dealerships.
+- Focus on user experience and load speed.
+- I participated in the full project cycle: discovery, implementation, QA, and post-launch support.
 
 🔗 **Live:** [e.toyotaperu.com.pe/inventory/seminuevos](https://e.toyotaperu.com.pe/inventory/seminuevos)
 
 ---
 
 ### 🟢 Streamint — Buenos Aires, Argentina
-**Desarrollador Front-end** · *Abril 2022 – Enero 2023*
+**Front-end Developer** · *April 2022 – January 2023*
 
-Plataforma de streaming de eventos privados con tecnologías Web3.
+Streaming platform for private events using Web3 technologies.
 
-- Construcción del **frontend** de la plataforma: acceso a contenido restringido por verificación de identidad digital, autenticación con billetera virtual y monetización en monedas digitales estables.
-- **Diseño de flujos pensados para usuarios no familiarizados con criptomonedas**: ocultar la complejidad técnica detrás de pasos familiares de un checkout tradicional.
+- Construction of the platform's **frontend**: restricted-content access via digital identity verification, authentication with a virtual wallet, and monetization in stablecoins.
+- **Designed flows for users unfamiliar with cryptocurrency**: hiding technical complexity behind familiar steps from a traditional checkout.
 
 ---
 
-## ⚙ Herramientas y entornos
+## ⚙ Tools & environments
 
-**Lenguajes & runtimes**
+**Languages & runtimes**
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1D1F27)
 ![JavaScript](https://img.shields.io/badge/javascript-F54E00?style=flat-square&logo=javascript&logoColor=white&labelColor=1D1F27)
 ![Node.js](https://img.shields.io/badge/node.js-29DBBB?style=flat-square&logo=node.js&logoColor=1D1F27&labelColor=1D1F27)
@@ -159,56 +159,56 @@ Plataforma de streaming de eventos privados con tecnologías Web3.
 ![React](https://img.shields.io/badge/react-29DBBB?style=flat-square&logo=react&logoColor=1D1F27&labelColor=1D1F27)
 ![Next.js](https://img.shields.io/badge/next.js-EEEFE9?style=flat-square&logo=next.js&logoColor=1D1F27&labelColor=1D1F27)
 
-**Backend & datos**
+**Backend & data**
 ![PostgreSQL](https://img.shields.io/badge/postgresql-1D4AFF?style=flat-square&logo=postgresql&logoColor=white&labelColor=1D1F27)
 ![Docker](https://img.shields.io/badge/docker-1D4AFF?style=flat-square&logo=docker&logoColor=white&labelColor=1D1F27)
 ![REST](https://img.shields.io/badge/REST_APIs-F54E00?style=flat-square&labelColor=1D1F27)
 
-**Plataformas educativas y de gestión**
+**Educational & management platforms**
 ![MOODLE](https://img.shields.io/badge/MOODLE-FFD96F?style=flat-square&labelColor=1D1F27)
 ![Google Workspace](https://img.shields.io/badge/google_workspace-FFD96F?style=flat-square&labelColor=1D1F27)
 
-**Integraciones que toqué en producción**
+**Integrations I shipped to production**
 ![MercadoPago](https://img.shields.io/badge/mercadopago-FFD96F?style=flat-square&labelColor=1D1F27)
 ![Facturante](https://img.shields.io/badge/facturante_(AFIP)-FFD96F?style=flat-square&labelColor=1D1F27)
 ![OCA](https://img.shields.io/badge/OCA-FFD96F?style=flat-square&labelColor=1D1F27)
 ![Chazki](https://img.shields.io/badge/chazki-FFD96F?style=flat-square&labelColor=1D1F27)
 
-**Versionado & colaboración**
+**Version control & collaboration**
 ![Git](https://img.shields.io/badge/git-F54E00?style=flat-square&logo=git&logoColor=white&labelColor=1D1F27)
 ![GitHub](https://img.shields.io/badge/github-1D1F27?style=flat-square&logo=github&logoColor=white&labelColor=1D1F27)
 
-**Herramientas de IA en mi loop diario**
+**AI tools in my daily loop**
 ![Anthropic Claude](https://img.shields.io/badge/claude-F54E00?style=flat-square&logo=anthropic&logoColor=white&labelColor=1D1F27)
 ![Cursor](https://img.shields.io/badge/cursor-EEEFE9?style=flat-square&labelColor=1D1F27)
 ![GitHub Copilot](https://img.shields.io/badge/copilot-EEEFE9?style=flat-square&logo=github&logoColor=1D1F27&labelColor=1D1F27)
 
 ---
 
-## 🗣 Idiomas
+## 🗣 Languages
 
-| Idioma | Nivel | Detalle |
+| Language | Level | Detail |
 |---|---|---|
-| 🇦🇷 **Español** | Nativo | — |
-| 🇬🇧 **Inglés** | Intermedio (B1) | Lectura técnica, documentación, comunicación escrita con equipos internacionales |
+| 🇦🇷 **Spanish** | Native | — |
+| 🇬🇧 **English** | Intermediate (B1) | Technical reading, documentation, written communication with international teams |
 
 ---
 
 ## ✨ Soft skills
 
-`Autonomía` · `Comunicación con personas no técnicas` · `Pensamiento en producto` · `Trabajo metódico` · `Enseñanza y didáctica` · `Documentación clara` · `Escritura técnica` · `Trabajo con personas en contextos diversos (educativos, comerciales, técnicos)` · `16+ años de continuidad en una misma institución (compromiso y vínculo de largo plazo)`
+`Autonomy` · `Communication with non-technical people` · `Product thinking` · `Methodical work` · `Teaching and instructional design` · `Clear documentation` · `Technical writing` · `Work with people in diverse contexts (educational, commercial, technical)` · `16+ years of continuity at one institution (commitment and long-term relationships)`
 
 ---
 
-## 📬 Contacto
+## 📬 Get in touch
 
 <div align="center">
 
-¿Querés trabajar juntos, charlar de un proyecto, o consultarme algo?
+Want to work together, chat about a project, or ask me something?
 
 [![Portfolio](https://img.shields.io/badge/🌐_portfolio-martinmartinezrizzi.ar-F54E00?style=for-the-badge&labelColor=1D1F27)](https://martinmartinezrizzi.ar)
-[![LinkedIn](https://img.shields.io/badge/💼_linkedin-perfil-1D4AFF?style=for-the-badge&labelColor=1D1F27)](https://www.linkedin.com/in/martin-martinez-rizzi/)
-[![Email](https://img.shields.io/badge/✉️_email-escribime-29DBBB?style=for-the-badge&labelColor=1D1F27)](mailto:martinezrizzimartin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_linkedin-profile-1D4AFF?style=for-the-badge&labelColor=1D1F27)](https://www.linkedin.com/in/martin-martinez-rizzi/)
+[![Email](https://img.shields.io/badge/✉️_email-say_hi-29DBBB?style=for-the-badge&labelColor=1D1F27)](mailto:martinezrizzimartin@gmail.com)
 
 </div>
 
@@ -216,6 +216,6 @@ Plataforma de streaming de eventos privados con tecnologías Web3.
 
 <div align="center">
 
-**Hecho con café, terminal y un poquito de chaos.**
+**Made with coffee, terminal, and a little bit of chaos.**
 
 </div>
